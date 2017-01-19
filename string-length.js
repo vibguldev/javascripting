@@ -1,2 +1,2 @@
-var demo_string = 'example string';
-console.log(demo_string.length);
+var demoString = 'example string';
+console.log(demoString.length);
