@@ -8,9 +8,7 @@ function getShortMessages(messages) {
 
 }
 
-// messages = [
-//   {message: "vcjwydvcwvcjwvcjwvcjwevcjwhecjwhevcjwecjwervwcjwevcjhvbcjwhecjwhv"},
-//   {message: "hello"}];
+
 module.exports = getShortMessages;
 
 

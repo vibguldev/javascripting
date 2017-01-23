@@ -1,8 +1,8 @@
-function doubleAll(numbers) {
-    return numbers.map(function multiplyTwo(integer) {
-        return integer * 2
+function multiplyAllByTwo(numbers) {
+    return numbers.map(function multiplyOneByTwo(number) {
+        return number * 2
 
     })
 }
 
-module.exports = doubleAll
+module.exports = multiplyAllByTwo
