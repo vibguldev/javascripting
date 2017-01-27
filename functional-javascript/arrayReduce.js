@@ -1,4 +1,5 @@
 function countWords(inputWords) {
+  var indexOfArray;
   if (inputWords instanceof Array === true) {
     if (inputWords.length > 0) {
 
